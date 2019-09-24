@@ -6,6 +6,7 @@ module.exports = {
     child: require('./lib/child.js'),
     chrono: require('./lib/chrono.js'),
     crypto: require('./lib/crypto.js'),
+    date: require('./lib/date.js'),
     function: require('./lib/function.js'),
     math: require('./lib/math.js'),
     object: require('./lib/object.js'),
