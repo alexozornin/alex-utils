@@ -3,6 +3,7 @@
 module.exports = {
     afs: require('./lib/afs.js'),
     array: require('./lib/array.js'),
+    byte: require('./lib/byte.js'),
     child: require('./lib/child.js'),
     chrono: require('./lib/chrono.js'),
     crypto: require('./lib/crypto.js'),
